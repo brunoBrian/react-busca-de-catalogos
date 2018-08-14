@@ -1,5 +1,5 @@
 
-Layout totalmente feito em **ReactJs** e **Materialize**, com campo de busca (valores vindos de um servidor), contador de cliques nas imagens e horário atual.
+Layout totalmente feito em **ReactJs** e **Materialize**, com catálogo (valores vindos de um servidor), campo de busca, contador de cliques nas imagens e horário atual.
 
 
 # Rodar a aplicação
